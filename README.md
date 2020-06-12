@@ -22,7 +22,7 @@ Project is created with:
 
 ## Usage for development
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/kurniawandenyy/ReactNative-RealtimeChat.git`
+2. Type `git clone https://github.com/iue2020/MobileTranslator.git`
 3. Open the folder and type `npm install` for install dependencies
 4. Type `react-native run-android` for run this app. ***Make sure your device is connected with debugging mode***.
 

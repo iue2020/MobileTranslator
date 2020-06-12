@@ -30,7 +30,7 @@ class App extends Component {
     let Splash_Screen = (
       <View style={styles.SplashScreen_RootView}>
         <View style={styles.SplashScreen_ChildView}>
-          {/* Put all your components Image and Text here inside Child view which you want to show in Splash Screen. */}
+
           <Image
             source={require('./src/img/logo.png')}
             // eslint-disable-next-line react-native/no-inline-styles
